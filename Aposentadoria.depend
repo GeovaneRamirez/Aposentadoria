@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1649200311 source:c:\00 - meus programas\programas em c\aposentadoria\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
